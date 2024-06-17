@@ -1,0 +1,34 @@
+body{
+    background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+    height:100vh;
+}
+.col-md-5{
+    margin: 150px;
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+    font-weight: bolder !important;
+    margin: 20px !important;
+}
+input{
+    display: inline !important;
+    border: 1.5px solid black !important;
+    width: 85% !important;
+
+}
+button{
+    margin-left: 10px !important;
+}
+li{
+    list-style-type: none;
+    font-size: 18px;
+    text-align: center;
+    width: 75%;
+    display: inline;
+    margin: 10px;
+}
+i{
+    color: red;
+    margin: 10px;
+}
